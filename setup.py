@@ -3,7 +3,10 @@
 #setup.py
 
 def setup():
-  print('balls')
+  print('Python 4.1 installer.')
+  print('Currently installing balls')
+  print('Could not find balls.')
+  # lmao
 
 if __name__ == '__main__':
   setup()
